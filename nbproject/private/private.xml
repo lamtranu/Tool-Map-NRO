@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>src/server/Config.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/tool_map_girlkun/src/tool/db/Config.java</file>
+            <file>file:/E:/tool_map_girlkun/src/tool/db/DatabaseManagers.java</file>
+            <file>file:/E:/tool_map_girlkun/src/tool/draw_map/TileMap.java</file>
+            <file>file:/E:/tool_map_girlkun/src/tool/draw_map/DrawMapScr.java</file>
+            <file>file:/E:/tool_map_girlkun/src/tool/db/Manager.java</file>
+        </group>
+    </open-files>
+</project-private>
