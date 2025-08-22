@@ -8,19 +8,20 @@
 ---------------------------
 
 ## Cấu trúc thư mục chính
-tool_map_girlkun
-├── dist
-├── lib
-├── nbproject
-├── src/...
+```text
+tool_map_girlkun/
+├── dist/        # Thư mục build/executable
+├── lib/         # Thư viện bên ngoài
+├── nbproject/   # Cấu hình NetBeans
+├── src/         # Mã nguồn Java
 ├── data/
-    ├── bg/
-    ├── config/
-    ├── effect/
-    ├── girlkun/ # File map, item_bg_map_data
-    ├── mob/ 
-    ├── tile/
-
+│   ├── bg/      # Background map
+│   ├── config/  # Cấu hình
+│   ├── effect/  # Hiệu ứng
+│   ├── girlkun/ # File map, item_bg_map_data
+│   ├── mob/     # File mob
+│   └── tile/    # Tile PNG và tileType
+```
 --------------------------
 
 ## Hướng dẫn chạy
